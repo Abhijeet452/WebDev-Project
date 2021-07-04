@@ -1,0 +1,147 @@
+* {
+    /* padding: 0.18em; */
+    /* background-color: rgba(125, 188, 209, 0.548); */
+    border-radius: 7px;
+}
+
+@media screen and (max-width: 768px) and (orientation:landscape) {
+    body {
+        color: rgb(44, 42, 165);
+    }
+}
+
+body {
+    background: url("https://image.cnbcfm.com/api/v1/image/106210419-1572366832669gettyimages-1137376687.jpg");
+    background-size: 100%;
+    box-sizing: border-box;
+    background-color: rgba(123, 131, 133, 0.404);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 12px;
+}
+
+legend {
+    /* border-radius: 7px; */
+    /* border-color: rgba(24, 2, 44, 0.527); */
+    /* background-color: rgba(0, 0, 0, 0.192); */
+    /* padding: aut */
+    font-weight: 520;
+    padding: 2px;
+    margin: 2px;
+    font-family: 'Lobster', cursive;
+    text-decoration: rgba(125, 188, 209, 0.548);
+    ;
+    /* border: 1cm; */
+}
+
+
+/* hr {
+    /* color: black; */
+
+
+/* background-color: black; */
+
+
+/* background-color: rgba(125, 188, 209, 0.548); */
+
+
+/* overflow: hidden;
+    width: 98%;
+    height: 0.1px;
+    border: hidden; */
+
+.gender {
+    cursor: pointer;
+}
+
+.gender:hover {
+    color: black;
+}
+
+legend {
+    border-radius: 7px;
+    border: 0.3em;
+    border-color: blueviolet;
+}
+
+.imgclass {
+    width: 200px;
+}
+
+h1 {
+    text-align: left;
+    font-size: xx-large;
+    font-weight: 700;
+    font-variant: small-caps;
+    /* font-family: ; */
+    font-family: 'Lobster', cursive;
+}
+
+.c1,
+.c2 {
+    /* border-radius: 7px; */
+    border: 3px solid rgba(0, 0, 0, 0.192);
+    background-color: rgba(0, 0, 0, 0.192);
+    border-radius: 7px;
+    padding: 0.3em;
+    margin: 0.3em;
+    font-family: 'Lobster', cursive;
+    font-size: 46px;
+}
+
+
+/* .c2 {
+    font-size: x-large;
+    border-radius: 7px;
+    padding: 0.3em;
+    margin: 0.3em;
+    /* background-color: rgba(84, 113, 175, 0); */
+
+
+/* font-family: 'Lobster', cursive;
+    text-align: left; */
+
+input[type="submit"]:hover {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    /* background-color: rgb(89, 89, 185); */
+    font-family: 'Lobster', cursive;
+    border-radius: 300px;
+}
+
+input[type="submit"] {
+    padding: 15px;
+    background-color: rgba(145, 164, 218, 0.075);
+    /* color: rgb(0, 0, 0); */
+    border: 1px solid black;
+    margin: 20px;
+    size: large;
+    border-radius: unset;
+    /* cursor: pointer; */
+    /* background-color: navy; */
+    font-family: 'Lobster', cursive;
+    transition: 4s;
+    border-radius: 10px;
+    width: 11.4%;
+}
+
+.c3 {
+    padding: 0.3em;
+    margin: 0.3em;
+    background-color: transparent;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+
+p {
+    /* background-color: navy; */
+    font-family: 'Lobster', cursive;
+    padding: 0.3em;
+    margin: 0.3em;
+    border: 0.3em;
+    font-size: large;
+}
+
+.imgclass {
+    width: 350px;
+}
